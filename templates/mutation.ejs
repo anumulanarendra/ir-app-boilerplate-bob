@@ -1,0 +1,7 @@
+export default gql`
+  mutation <%= props.pascalCaseName %>Mutation($variable1: String!, $variable2: String!) {
+    <%= props.camelCaseName %>(variable1: $variable1, variable2: $variable2) {
+      id
+    }
+  }
+`

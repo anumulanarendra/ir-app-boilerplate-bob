@@ -1,0 +1,27 @@
+{
+  "name": "ir-app-boilerplate-bob",
+  "version": "1.0.0",
+  "description": "Boilerplate for ignite-react-app",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjonamu/ir-app-boilerplate-bob.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Blessing Jonamu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjonamu/ir-app-boilerplate-bob/issues"
+  },
+  "homepage": "https://github.com/bjonamu/ir-app-boilerplate-bob#readme",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}

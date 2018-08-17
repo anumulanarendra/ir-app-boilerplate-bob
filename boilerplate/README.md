@@ -1,22 +1,24 @@
-# Ignite React App Boilerplate ("Bob")
+#  <%= props.name %>
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-Currently includes:
+This app was bootstrapped using the Ignite React App Boilerplate ("Bob") for [Ignite React App](https://github.com/bjonamu/ignite-react-app).
 
-* React 16
-* React Router Dom
-* Apollo
-* And more!
+## :arrow_up: How to Setup
+
+**Step 1:** git clone this repo:
+
+**Step 2:** cd to the cloned repo:
+
+**Step 3:** Install the Application with `yarn` or `npm i`
 
 
-## Quick Start
+## :arrow_forward: How to Run App
 
-When you've installed the [Ignite React App](https://github.com/bjonamu/ignite-react-app), you can get started with this boilerplate like this:
+1. cd to the repo
+2. Run `yarn start` or `npm run start`
 
-```
-ir-app new my-awesome-app
-```
+## Repo walkthrough
 
-## Boilerplate walkthrough
 
 Your `src` folder is where most of the goodies are found in an Ignite React App that was created using Create React App. Let's walk through them in more detail. Start with `src/index.js` (described below) and work your way down the walkthrough in order.
 

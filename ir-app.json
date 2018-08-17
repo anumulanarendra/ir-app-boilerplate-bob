@@ -1,0 +1,10 @@
+{
+  "generators": [
+    "component",
+    "container",
+    "layout",
+    "redux",
+    "saga",
+    "gen"
+  ]
+}
