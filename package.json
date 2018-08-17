@@ -23,5 +23,8 @@
   "homepage": "https://github.com/bjonamu/ir-app-boilerplate-bob#readme",
   "dependencies": {
     "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
   }
 }

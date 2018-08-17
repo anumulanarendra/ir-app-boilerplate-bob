@@ -3,8 +3,8 @@
     "component",
     "container",
     "layout",
-    "redux",
-    "saga",
+    "mutation",
+    "query",
     "gen"
   ]
 }

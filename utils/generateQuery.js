@@ -1,6 +1,6 @@
 module.exports = async (toolbox, queryName) => {
   const { parameters, print, template: { generate }, strings, filesystem } = toolbox
-  const { isBlank, pascalCase } = strings
+  const { isBlank, pascalCase, camelCase } = strings
   const { first: paramName } = parameters
 
   const qName = queryName || paramName
